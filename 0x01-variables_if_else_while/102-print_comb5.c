@@ -23,7 +23,7 @@ int main(void)
 				{
 					op1 = (h * 10) + g;
 					op2 = (e * 10) + i;
-					if (opp1 < opp2)
+					if (op1 < op2)
 					{
 						putchar(h);
 						putchar(g);
@@ -33,7 +33,7 @@ int main(void)
 						if (h == 57 && g == 56 && e == 57 && i == 57)
 							break;
 						putchar(',');
-						putchar(' ')
+						putchar(' ');
 					}
 					i++;
 				}
