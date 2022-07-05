@@ -7,7 +7,7 @@
  * @n: the character in ASII code
  *
  * Return: 1 if n greater than zero.
- * 0 if n is zero and 
+ * 0 if n is zero and
  * -1 if n is less than zero
  */
 int print_sign(int n)
