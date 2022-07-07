@@ -16,5 +16,4 @@ int _isdigit(int c)
 	}
 	else
 	{
-		i
 }
