@@ -8,10 +8,10 @@
  * Return: no return
  */
 
-void rev_striing(char *s)
+void rev_string(char *s)
 {
 	int count = 0, p, q;
-	char*str, temp;
+	char *str, temp;
 
 	while (count >= 0)
 	{
