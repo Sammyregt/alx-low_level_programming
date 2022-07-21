@@ -23,7 +23,7 @@ int power_operation(int n, int c)
 }
 
 /**
- * _sqrt_recursion - returns the natural square root of 
+ * _sqrt_recursion - returns the natural square root of
  * a number
  *
  * @n: input number
